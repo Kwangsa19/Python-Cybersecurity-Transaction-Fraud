@@ -15,7 +15,7 @@ The dataset has five types of transactions:
 2. Return the column names as a list from the dataframe.
 3. Return the first k rows from the dataframe.
 4. Return a random sample of k rows from the dataframe.
-5. Return in Origin account balance delta v. Destination account balance delta scatter plot for Cash Out transactions.
+5. Return the Origin account balance delta v. Destination account balance delta scatter plot for Cash Out transactions (Source Delta & Delta Destination)
 6. Return Fraud transactions that are flagged as frauds and how many of them are real frauds. 
 
 ## Implementation
