@@ -1,5 +1,5 @@
 # Transaction Frauds
-> This is based on the JP Morgan Cybersecurity Study Case via [Forage](https://www.theforage.com/simulations/jpmorgan/cybersecurity-0acj). The dataset named 'transaction.csv can be found in [Kaggle](https://www.kaggle.com/ealaxi/paysim1/version/2).
+> This is inspired by JP Morgan Cybersecurity Study Case via [Forage](https://www.theforage.com/simulations/jpmorgan/cybersecurity-0acj). The dataset named 'transaction.csv can be found in [Kaggle](https://www.kaggle.com/ealaxi/paysim1/version/2).
 
 ## Scenario 
 You are a cybersecurity analyst at the one of the largest financial companies in the world. Your job is to analyze a large dataset of fraud in Financial Payment Services. 
